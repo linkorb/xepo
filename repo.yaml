@@ -1,0 +1,11 @@
+title: Xepo
+description: Manage large groups of git repositories in bulk
+license: MIT
+visibility: public
+homepage: https://github.com/linkorb/xepo
+support:
+  issues: https://github.com/linkorb/xepo/issues
+
+tags:
+  - php
+  - linkorb

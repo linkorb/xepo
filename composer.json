@@ -1,0 +1,25 @@
+{
+  "name": "linkorb/xepo",
+  "description": "Xepo: Manage large groups of git repositories in bulk",
+  "homepage": "https://github.com/linkorb/xepo",
+  "keywords": ["xepo", "git", "project-manager", "linkorb"],
+  "type": "application",
+  "authors": [
+    {
+      "name": "LinkORB",
+      "email": "engineering@linkorb.com",
+      "role": "Development"
+    }
+  ],
+  "require": {
+    "symfony/console": "^3.0|^4.0",
+    "symfony/yaml": "^3.0|^4.0",
+    "symfony/expression-language": "^4.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Xepo\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
